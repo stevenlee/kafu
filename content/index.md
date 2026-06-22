@@ -1,3 +1,3 @@
 ---
-title: kafu
+title: Kafu, Ling Ling's Blog
 ---
