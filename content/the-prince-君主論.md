@@ -18,7 +18,7 @@ Original chars: 0-8496
 
 <!-- source: The Prince (Part 1).md -->
 
-### 翻譯與對照報告
+### 本部分建立馬基維利政治思想的歷史與個人背景，將其著作與佛羅倫斯從美第奇盛世、共和政體到美第奇復辟的動盪歷史相結合。
 
 #### 摘要
 
@@ -158,7 +158,7 @@ Original chars: 7474-15715
 
 <!-- source: The Prince (Part 2).md -->
 
-### 翻譯與對照報告
+### The empirical foundations of *The Prince* were forged through Machiavelli's direct diplomatic observations of Italian and European power dynamics, later synthesized through a scholarly immersion in classical antiquity during his political exile.
 
 #### 摘要
 
@@ -275,7 +275,7 @@ Original chars: 14693-23366
 
 <!-- source: The Prince (Part 3).md -->
 
-### 翻譯與對照報告
+### This part traces the transformation of Machiavelli's writings from early drafts to established historical works, evaluates his personal failures in political practice against his literary success, and defends the enduring relevance of his political realism.
 
 #### 摘要
 
@@ -364,7 +364,7 @@ Original chars: 22345-31592
 
 <!-- source: The Prince (Part 4).md -->
 
-### 翻譯與對照報告
+### 本部分確立了《君主論》作為政治現實主義經典的地位，並初步界定了君主政體的分類與世襲政體的統治穩定性。
 
 #### 摘要
 
@@ -510,7 +510,7 @@ Original chars: 30570-39646
 
 <!-- source: The Prince (Part 5).md -->
 
-### 翻譯與對照報告
+### 君主在併吞文化或法律不同的新領土（混合政體）時，必須透過降低統治成本、建立直接控制機制及平衡地緣政治，以克服臣民因期望改變而發生的叛亂風險。
 
 #### 摘要
 
@@ -641,7 +641,7 @@ Original chars: 38624-46890
 
 <!-- source: The Prince (Part 6).md -->
 
-### 翻譯與對照報告
+### 成功的統治依賴於預見危機並透過扶持弱小、壓制強大來維持權力平衡；反之，若在危機尚未成形前盲目擴張或引入外來勢力，則會導致政權無法挽救。
 
 #### 摘要
 
@@ -714,7 +714,7 @@ Original chars: 45868-54300
 
 <!-- source: The Prince (Part 7).md -->
 
-### 翻譯與對照報告
+### 國家的統治難易度不取決於征服者的能力，而取決於被征服國家內部權力結構的統一性（中央集權 vs. 封建分權）。
 
 #### 摘要
 
@@ -808,7 +808,7 @@ Original chars: 53278-62110
 
 <!-- source: The Prince (Part 8).md -->
 
-### 翻譯與對照報告
+### 統治者應根據被併吞領土的原有法律性質（自由邦或君主制）採取不同策略，並強調透過「才能」識別「機會」與建立「武裝力量」是維持新政體穩固的關鍵。
 
 #### 摘要
 
@@ -899,7 +899,7 @@ Original chars: 61089-69836
 
 <!-- source: The Prince (Part 9).md -->
 
-### 翻譯與對照報告
+### 政權的穩定性取決於統治者是否能依靠自身武力與能力建立「根基」，而非僅依賴變幻莫測的運氣或他人的武力。
 
 #### 摘要
 
@@ -990,7 +990,7 @@ Original chars: 68814-77974
 
 <!-- source: The Prince (Part 10).md -->
 
-### 翻譯與對照報告
+### 切薩雷·波吉亞透過建立自主武力、收編敵對派系、利用政治替罪羊以及預先佈局教宗繼任者，展現了依靠自身能力（Virtù）而非他人運氣（Fortune）建立政權的極致典範。
 
 #### 摘要
 
@@ -1077,7 +1077,7 @@ Original chars: 76952-85690
 
 <!-- source: The Prince (Part 11).md -->
 
-### 翻譯與對照報告
+### 分析透過他人武力或不義手段取得政權的機制，強調政治家雖能透過殘暴手段獲取權力，但若缺乏政治遠見或僅追求權力而捨棄榮耀，最終仍難逃毀滅。
 
 #### 摘要
 
@@ -1167,7 +1167,7 @@ Original chars: 84668-93818
 
 <!-- source: The Prince (Part 12).md -->
 
-### 翻譯與對照報告
+### 君主應透過「一次性施加必要之惡」與「循序漸進施予恩惠」來鞏固政權，並在公民政體中，透過爭取平民支持而非僅依賴貴族扶持來建立穩固的統治基礎。
 
 #### 摘要
 
@@ -1269,7 +1269,7 @@ Original chars: 92796-102312
 
 <!-- source: The Prince (Part 13).md -->
 
-### 翻譯與對照報告
+### 透過分析政權的權力基礎（人民 vs. 官員）、資源自給能力（自身資源 vs. 城鎮防禦）以及宗教權威的特殊性，建立一套衡量政權穩定性與強度的標準。
 
 #### 摘要
 
@@ -1358,7 +1358,7 @@ Original chars: 101290-109623
 
 <!-- source: The Prince (Part 14).md -->
 
-### 翻譯與對照報告
+### 國家穩定依賴於良好的法律與精良的武裝，而依賴傭兵或增援軍等非自有武裝將導致政權的脆弱與毀滅。
 
 #### 摘要
 
@@ -1460,7 +1460,7 @@ Original chars: 108600-117353
 
 <!-- source: The Prince (Part 15).md -->
 
-### 翻譯與對照報告
+### 政權的穩定與自由取決於其武裝來源；依賴自有武裝（Own Arms）能保障主權，而依賴傭兵（Mercenaries）或增援軍（Auxiliaries）則會使政權陷入被動、易受操縱甚至走向滅亡。
 
 #### 摘要
 
@@ -1557,7 +1557,7 @@ Original chars: 116331-125804
 
 <!-- source: The Prince (Part 16).md -->
 
-### 翻譯與對照報告
+### 君主必須建立由臣民或公民組成的「自有武力」，因為依賴傭兵或增援軍會因其各自的特性（懦弱或勇猛）而導致政權不穩，且精通戰爭藝術是維持統治與避免被輕視的唯一途徑。
 
 #### 摘要
 
@@ -1651,7 +1651,7 @@ Original chars: 124782-133068
 
 <!-- source: The Prince (Part 17).md -->
 
-### 翻譯與對照報告
+### 君主必須透過軍事研習與政治現實主義的靈活應用，在「實然」而非「應然」的現實中，透過掌握戰爭藝術與適時運用惡行來保全政權。
 
 #### 摘要
 
@@ -1747,7 +1747,7 @@ Original chars: 132046-140652
 
 <!-- source: The Prince (Part 18).md -->
 
-### 翻譯與對照報告
+### 君主應透過策略性的「吝嗇」與「殘酷」來維持政權穩定，避免因追求「慷慨」或「仁慈」的名聲而導致財政枯竭、人民怨恨或社會動亂。
 
 #### 摘要
 
@@ -1837,7 +1837,7 @@ Original chars: 139630-148324
 
 <!-- source: The Prince (Part 19).md -->
 
-### 翻譯與對照報告
+### 君主應建立在自己能掌控的「恐懼」而非他人意志的「愛戴」之上，並應具備運用「狐狸與獅子」雙重本性的能力，透過展現美德的表象來維持政權，而非盲目追求道德實踐。
 
 #### 摘要
 
@@ -1921,7 +1921,7 @@ Original chars: 147303-155896
 
 <!-- source: The Prince (Part 20).md -->
 
-### 翻譯與對照報告
+### 君主應透過精準的形象管理與維護臣民基本利益，來降低被憎恨與輕蔑的風險，從而鞏固政權穩定並防範內部陰謀。
 
 #### 摘要
 
@@ -2014,7 +2014,7 @@ Original chars: 154875-164150
 
 <!-- source: The Prince (Part 21).md -->
 
-### 翻譯與對照報告
+### 君主應透過建立「調停者」制度以轉嫁政治責難，並在面對貴族、平民與士兵三方衝突時，運用「狐狸與獅子」的特質來維持權威與避免被憎恨。
 
 #### 摘要
 
@@ -2099,7 +2099,7 @@ Original chars: 163129-172621
 
 <!-- source: The Prince (Part 22).md -->
 
-### 翻譯與對照報告
+### 君主政權的穩定取決於避免「憎恨」與「輕蔑」，並應根據政權性質（新舊、世襲或選舉）與時代背景（士兵與人民的力量比例）靈活調整武裝與統治策略。
 
 #### 摘要
 
@@ -2186,7 +2186,7 @@ Original chars: 171599-181061
 
 <!-- source: The Prince (Part 23).md -->
 
-### 翻譯與對照報告
+### 君主應透過建立自有武裝、避免煽動派系、利用曾不信任之臣子，並透過偉大事業建立名望，以達成政權的長期穩定與不可撼動性。
 
 #### 摘要
 
@@ -2279,7 +2279,7 @@ Original chars: 180039-188323
 
 <!-- source: The Prince (Part 24).md -->
 
-### 翻譯與對照報告
+### 君主應透過積極的政治參與、明確的外交立場、對經濟與社會組織的贊助，以及精準的人才選拔，來鞏固權威並建立卓越聲譽。
 
 #### 摘要
 
@@ -2375,7 +2375,7 @@ Original chars: 187301-197230
 
 <!-- source: The Prince (Part 25).md -->
 
-### 翻譯與對照報告
+### 君主之智慧體現於其辨識臣僚、管理顧問及預防危機的能力，而非僅依賴外部運勢或他人的建議。
 
 #### 摘要
 
@@ -2488,7 +2488,7 @@ Original chars: 196208-204496
 
 <!-- source: The Prince (Part 26).md -->
 
-### 翻譯與對照報告
+### 政治成敗取決於個人能力（Virtù）能否透過預防機制與靈活調整，與變幻莫測的命運（Fortune）及時代精神（Spirit of the times）達成契合。
 
 #### 摘要
 
@@ -2688,7 +2688,7 @@ Original chars: 211006-220004
 
 <!-- source: The Prince (Part 28).md -->
 
-### 翻譯與對照報告
+### Duke Valentino (Cesare Borgia) employed extreme political dissembling and psychological manipulation to neutralize a coalition of powerful rivals (Vitelli and Orsini) through a facade of reconciliation.
 
 #### 摘要
 
@@ -2784,7 +2784,7 @@ Original chars: 218982-227881
 
 <!-- source: The Prince (Part 29).md -->
 
-### 翻譯與對照報告
+### This part illustrates the ruthless application of political deception to eliminate rivals and introduces the philosophical interplay between Fortune and Virtù in the rise of great individuals.
 
 #### 摘要
 
@@ -2871,7 +2871,7 @@ Original chars: 226859-235493
 
 <!-- source: The Prince (Part 30).md -->
 
-### 翻譯與對照報告
+### The rise of Castruccio Castracani serves as a historical exemplar of how 'Fortune' initiates a path through random events, while 'Virtù' (talent and prowess) enables an individual to seize and consolidate power.
 
 #### 摘要
 
@@ -2950,7 +2950,7 @@ Original chars: 234471-243242
 
 <!-- source: The Prince (Part 31).md -->
 
-### 翻譯與對照報告
+### The consolidation of Castruccio's power through military innovation and the exploitation of political instability, contrasted with the downfall of Uguccione caused by jealousy and political volatility.
 
 #### 摘要
 
@@ -3025,7 +3025,7 @@ Original chars: 242220-252383
 
 <!-- source: The Prince (Part 32).md -->
 
-### 翻譯與對照報告
+### 卡斯特銳丘·卡斯特拉卡尼透過軍事征服、利用派系鬥爭、策略性仁慈與極端殘酷手段的交替使用，實現了從囚犯到托斯卡尼強大領主的政治轉型。
 
 #### 摘要
 
@@ -3094,7 +3094,7 @@ Original chars: 251361-261500
 
 <!-- source: The Prince (Part 33).md -->
 
-### 翻譯與對照報告
+### 透過戰略性的資源分配、地形利用與奇襲戰術，卡斯特魯喬展示了如何利用「能力」（Virtù）在極端不利的兵力差距下，透過政治手段與軍事機動性來擴張領土並重塑權力版圖。
 
 #### 摘要
 
@@ -3162,7 +3162,7 @@ Original chars: 260478-269820
 
 <!-- source: The Prince (Part 34).md -->
 
-### 翻譯與對照報告
+### 透過精確的地形利用、心理戰與預備隊調度，卡斯特魯喬·卡斯特拉卡尼在阿爾諾河戰役中以極小代價擊潰了規模龐大的佛羅倫斯聯軍，進一步鞏固了其在托斯卡尼的統治地位。
 
 #### 摘要
 
@@ -3231,7 +3231,7 @@ Original chars: 268798-276992
 
 <!-- source: The Prince (Part 35).md -->
 
-### 翻譯與對照報告
+### The transition of power from the exceptional, meritocratic leader Castruccio to his less capable successor Pagolo illustrates the fragility of political stability when 'virtù' (ability) is replaced by reliance on inheritance and the unpredictable whims of 'Fortune'.
 
 #### 摘要
 
@@ -3298,7 +3298,7 @@ Original chars: 275970-284764
 
 <!-- source: The Prince (Part 36).md -->
 
-### 翻譯與對照報告
+### 透過一系列充滿機智、辛辣且務實的軼事，展現卡斯特拉卡尼（Castruccio Castracani）作為一名強人，其核心價值在於追求勝利的榮耀而非手段的道德，並展現出對力量的崇拜與對傳統道德規範的蔑視。
 
 #### 摘要
 
@@ -3383,7 +3383,7 @@ Original chars: 283742-292836
 
 <!-- source: The Prince (Part 37).md -->
 
-### 翻譯與對照報告
+### The stability of a principality depends on whether its foundations were laid through personal ability (virtù) before or after the acquisition of power, and whether the ruler relies on their own arms or the fickle fortune of others.
 
 #### 摘要
 
@@ -3474,7 +3474,7 @@ Original chars: 291814-299123
 
 <!-- source: The Prince (Part 38).md -->
 
-### 翻譯與對照報告
+### The analysis of Cesare Borgia's political actions as a model of 'virtù' (skill/ability) that ultimately failed due to 'fortuna' (uncontrollable circumstances) and a single strategic error in papal election.
 
 #### 摘要
 
