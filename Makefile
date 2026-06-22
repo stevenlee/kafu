@@ -16,7 +16,7 @@ preview: build
 	$(NODE) && npx serve public -l 8080
 
 publish:
-	git add content && git commit -m "Publish: update blog" || true
+	git add -A && git commit -m "Publish: update blog" || true
 	git push origin v4
 
 .PHONY: build preview publish
