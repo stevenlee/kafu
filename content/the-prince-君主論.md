@@ -1,6 +1,6 @@
 ---
 title: The Prince 君主論
-date: '2026-06-22'
+date: '2026-06-23'
 tags:
 - review
 draft: false
